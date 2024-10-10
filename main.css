@@ -1,6 +1,14 @@
 body {
     background-color: lightblue;
 }
+
+/* html does not exist for this
+#content{
+    background-color: rgba(173, 216, 230, .5); 
+    max-width: 800px;
+    margin: 0 auto;
+}
+*/
 nav, footer {
     background-color: steelblue;
     font-size: 24px;
