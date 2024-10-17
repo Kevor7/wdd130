@@ -1,5 +1,11 @@
+/* font*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 body {
-    background-color: lightblue;
+    background-color: beige;
+    font-size: 24px;
+    font-family: Roboto, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 /* html does not exist for this
@@ -14,13 +20,16 @@ nav, footer {
     font-size: 24px;
     display: flex;
     justify-content: space-around;
+
 }
 nav a{
     text-decoration: none;
 }
 a{
-    color: #000;
+    /* Top navi bar hover sections */
+    color: beige;
     padding: 25px;
+    /* margin */
     font-size: 24px;
 }
 
@@ -43,11 +52,17 @@ img{
     width: 70%;
     display: block;
     margin: 0 auto;
+    
 }
 p{
    width: 70%;
     margin: 25px auto;
     line-height: 1.25em;
+    /*background-color: lightblue;
+    padding: 30px 5px 60px 10px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 400px;*/
 }
 
 footer p{
