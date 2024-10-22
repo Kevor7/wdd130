@@ -4,12 +4,12 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
-  /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
-
+  /* change the values below t0 your colors from your palette */
+  --primary-color: #6D83B6;
+  --secondary-color: #E9E3E6;
+  --accent1-color:#000000;
+  --accent2-color: #736F72;
+  
   /* change the values below to your chosen font(s) */
   --heading-font: "Arial"; /* change same as @import */
   --paragraph-font: Lato, Helvetica, sans-serif;
@@ -21,9 +21,9 @@ Fonts are separated by a & */
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
+  --nav-background-color:#E9E3E6;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-background-color: #6D83B6;
 }
 
 
