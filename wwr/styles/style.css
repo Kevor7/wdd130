@@ -1,0 +1,97 @@
+#background{
+    height: 725px;
+    background-color: pink; /* temp color */
+}
+/* temp color */
+body{
+    background-color: steelblue;
+}
+/* temp color */
+.book, .join{
+    background-color: red;
+    color:pink;
+    text-decoration: none;
+}
+/* temp color */
+.book:hover, .join:hover{
+    background-color: maroon;
+    color:pink;
+}
+.button-box{
+    text-align: center;
+}
+#content{
+    max-width:1600px;
+    margin: 0 auto;
+}
+/* temp color */
+h4{
+    color:pink;
+}
+/* temp color */
+header{
+    background-color: antiquewhite
+}
+#hero-img{
+    width: 100%;
+}
+#hero-msg h1, #hero-msg h4{
+    text-align: center;
+}
+.home-tile{
+    color:pink;
+}
+
+.icon{
+    width: 80px;
+}
+
+.logo{
+    width: 80px;
+}
+main section{
+    text-align: center;
+}
+/* temp color */
+.msg{
+    background-color: greenyellow
+}
+
+.msg p{
+    color:pink;
+}
+
+.msg h2{
+    color:pink;
+}
+nav a{
+    text-align: center;
+    color: pink;
+    text-decoration: none;
+}
+/* temp color */
+nav a:hover{
+    background-color:blueviolet;
+    color: pink;
+}
+
+
+
+/* temp color */
+footer{
+    background-color: black;
+    color:pink;
+}
+footer a{
+    color:pink;
+    text-decoration: none;
+}
+footer a:hover{
+    color:fuchsia;
+}
+footer p{
+    font-size: 1.2em;
+}
+footer p a:hover{
+    text-decoration: underline;
+}
